@@ -30,6 +30,8 @@
 
 
 ## 📄 Document Skills  
+- **[Trustbaselab/trustbase-skills](https://github.com/Trustbaselab/trustbase-skills)** - 8 cognitive skills from classic books (Factfulness, Thinking Fast and Slow, Noise, Thinking in Systems, Scarcity + Deep Work, The Knowledge Illusion, Who Can You Trust?) + a meta `book-to-skill` skill. Apache-2.0, bilingual.
+
 - [docx](https://github.com/anthropics/skills/tree/main/skills/docx) - Create, edit, analyze Word docs with tracked changes, comments, formatting.  
 - [pdf](https://github.com/anthropics/skills/tree/main/skills/pdf) - Extract text, tables, metadata, merge & annotate PDFs.  
 - [polaris-datainsight-doc-extract](https://github.com/jacob-g-park/polaris-datainsight-doc-extract) - Extract structured data from Office documents (DOCX, PPTX, XLSX, HWP, HWPX) using the Polaris AI DataInsight Doc Extract API.
